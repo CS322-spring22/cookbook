@@ -25,7 +25,7 @@ const RecipeCard = (props) => {
         >
           <AccessTime sx={{ width: 12.5 }} />
           <Typography variant="body2" component="p" marginLeft={0.5}>
-            420 Hours
+            420 Minutes
           </Typography>
         </Box>
         <Box
